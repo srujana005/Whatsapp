@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 feature 1 form sprint 1
+=======
+developer change the  code
+>>>>>>> b1
